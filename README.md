@@ -18,3 +18,9 @@ NameChecker is a NodeJS program that checks Username availability on Roblox.
 1. Put the names (one per line) in Names.txt
 2. Open a terminal in the directory where you have this downloaded
 3. Run `npm start`
+
+Log files:
+
+- `app.log`: Information messages and Valid names
+- `inappropiate.log`: Inappropiate names
+- `taken.log`: Taken names

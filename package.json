@@ -2,6 +2,7 @@
   "name": "NameChecker",
   "version": "1.0.0",
   "description": "",
+  "repo": "https://github.com/daniel11420/NameChecker",
   "main": "index.js",
   "scripts": {
     "start": "node ."
