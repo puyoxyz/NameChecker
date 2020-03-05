@@ -6,7 +6,7 @@ NameChecker is a NodeJS program that checks Username availability on Roblox.
 
 ## Requirements
 
-- [Node.js](https://nodejs.org): This is supposed to run on Node 10, but further versions of Node should work too.
+- [Node.js](https://nodejs.org): This is supposed to run on Node 10, but further versions of Node should work too. (Confirmed working on Node.JS 13.9.0)
 
 ## Installation
 
