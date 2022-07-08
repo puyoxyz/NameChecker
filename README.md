@@ -1,6 +1,4 @@
-# daniel11420/NameChecker
-
-[See this on repl.it](https://repl.it/@kiziolek06/NameChecker)
+# puyoxyz/NameChecker
 
 NameChecker is a NodeJS program that checks Username availability on Roblox.
 

@@ -29,7 +29,7 @@ const inappropiateLogger = winston.createLogger({
   ]
 });
 
-logger.info("Welcome to Daniel11420's Name Checker. This is a better version of repl.it/@kiziolek06/RobloxNamesDaniel11420 written in NodeJS.");
+logger.info("Welcome to puyoxyz's Name Checker. This is a better version of [dead link, used to link to an old script that did this but worse] written in NodeJS.");
 logger.info("Name Checker is starting...")
 
 // define empty array
